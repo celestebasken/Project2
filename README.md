@@ -1,2 +1,6 @@
-# Project2
-EEP153 Project 2
+# Team Sylvia Lane Project 2
+
+Our project focused on the minimum cost diets for individuals 19-30 based on diet (vegan and non-vegan), sex (male and female), and athlete status (athlete and non-athlete). We used data about the cost of food in the US in order to get an understanding of how people across these categories could minimize the cost of their diets while meeting nutritional requirements.
+
+We began by identifying how the nutritional requirements for athletes (male and female) is different than for non-athletes. We also sorted all recipes and ingredients containing animal products out of the dataset in order to create options for vegan individuals. We generated diets for individuals in different categories, and then used the Consumer Price Index for different regions to approximate the actual cost of this diet in different regions. 
+                                                                                                                                                                                       
